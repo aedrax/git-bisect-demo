@@ -23,6 +23,7 @@ def divide(a, b):
 def pow(a, b):
     return a ** b
 
+# a % b
 def modulus(a, b): 
     return a % b
 
