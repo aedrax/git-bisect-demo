@@ -27,6 +27,7 @@ def pow(a, b):
 def modulus(a, b): 
     return a % b
 
+# this is the main entry point
 if __name__ == "__main__":
     print("Add: ", add(2,3))
     print("Sub: ", subtract(2,3))
