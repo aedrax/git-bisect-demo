@@ -4,6 +4,7 @@
 def add(a, b):
     return a + b
 
+# A - B
 def subtract(a, b):
     return a - b
 
