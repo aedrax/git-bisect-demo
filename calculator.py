@@ -1,4 +1,7 @@
 #!/bin/env python3
 
+def add(a, b):
+    return a + b
+
 if __name__ == "__main__":
-    print("Hello!")
+    print("Add: ", add(2,3))
