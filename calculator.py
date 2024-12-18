@@ -8,8 +8,9 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
+# A * B
 def mult(a, b):
-    return a * b
+    return a * b - 1
 
 def divide(a, b):
     if b == 0:
