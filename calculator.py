@@ -19,6 +19,7 @@ def divide(a, b):
     
     return a / b
 
+# a ** b
 def pow(a, b):
     return a ** b
 
